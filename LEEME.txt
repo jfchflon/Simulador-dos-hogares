@@ -1,0 +1,11 @@
+SIMULADOR DOS HOGARES · MOBILE BETA 0.1
+
+Contenido:
+- index.html: aplicación
+- manifest.webmanifest: instalación PWA
+- sw.js: funcionamiento offline y actualización de caché
+- icons/: iconos iPhone/PWA
+
+Publicación gratuita recomendada: GitHub Pages.
+Cada nueva versión sustituye estos archivos manteniendo el mismo sitio/URL.
+Los datos del simulador permanecen en localStorage del navegador mientras se conserve el mismo dominio.

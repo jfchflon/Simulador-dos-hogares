@@ -1,0 +1,15 @@
+{
+  "name": "Simulador económico de dos hogares",
+  "short_name": "Dos Hogares",
+  "description": "Simulador para buscar equilibrio económico entre dos hogares.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf3f6",
+  "theme_color": "#0b2238",
+  "lang": "es",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
